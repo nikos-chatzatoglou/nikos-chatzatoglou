@@ -31,31 +31,35 @@
 
 ### 🕹️ **Quick Game: Guess What Nikos is Learning!** (Click a badge!)  
 
-**"I'm currently diving deep into a backend framework. Which one is it?"**  
+**Click a die to "roll" (refresh the page!):**
 
-[![Express Guess](https://img.shields.io/badge/Guess-Express.js-black?style=for-the-badge&logo=express&logoColor=white&link=https://img.shields.io/badge/CORRECT%21-Express.js-black?style=for-the-badge&logo=express&logoColor=green)](https://img.shields.io/badge/CORRECT%21-Express.js-black?style=for-the-badge&logo=express&logoColor=green)  
-[![Django Guess](https://img.shields.io/badge/Guess-Django-green?style=for-the-badge&logo=django&link=https://img.shields.io/badge/Oops%21-Try_Again%21-red)](https://img.shields.io/badge/Oops%21-Try_Again%21-red)  
-[![Flask Guess](https://img.shields.io/badge/Guess-Flask-grey?style=for-the-badge&logo=flask&link=https://img.shields.io/badge/Nice_Try%21-Look_Elsewhere%21-orange)](https://img.shields.io/badge/Nice_Try%21-Look_Elsewhere%21-orange)  
+[![D6](https://img.shields.io/badge/Refresh_for_new_roll-🎲-blueviolet)](https://example.com)  
+Current "roll": █▄ ▄█ (Pretend this changes 😉)
 
-**Answer revealed when you click!** (Works best on GitHub desktop)
+**Superstition-powered randomness!**  
+*(GitHub's cache will make the badge timestamp change on page refresh)*
 
-[![HitCount](https://hits.sh/github.com/yourusername.svg?style=for-the-badge&label=Live%20Visitors&color=7b1fa2&extraCount=9999)](https://hits.sh/github.com/yourusername/)
+**Click rapidly between these to simulate loading:**  
+
+<details>
+<summary>🌀</summary></details>
+<details>
+<summary>⚙️🌀</summary></details>
+<details>
+<summary>⚙️⚙️🌀</summary></details>
+<details>
+<summary>⚙️⚙️⚙️✅</summary></details>
 
 
-**Start the Dev Adventure:**  
-[![Start](https://img.shields.io/badge/New_Game-Start%20Here-%232ea44f?link=https://github.com/yourusername/yourrepo/issues/new?template=game.md)](https://github.com/yourusername/yourrepo/issues/new?template=game.md)
-
-[![Time](https://img.shields.io/endpoint?url=https://shields-io-time.vercel.app/api?style=for-the-badge&label=Current%20Time%20(UTC)&color=blue)](https://www.zeitverschiebung.net/en/)
-
-**Find the hidden tech emojis → Click them!**
-
-[🐍](https://img.shields.io/badge/Snake_Python-3776AB?logo=python) 
-[⚡](https://img.shields.io/badge/Zap_React-61DAFB?logo=react) 
-[🔗](https://img.shields.io/badge/Chain_Solidity-363636?logo=solidity)
-
-**What language has a package manager called "cargo"?**
-
-[![Rust Answer](https://img.shields.io/badge/-Rust-orange?logo=rust&link=https://img.shields.io/badge/%F0%9F%94%A5_CORRECT_-Rust-brightgreen)](https://img.shields.io/badge/%F0%9F%94%A5_CORRECT_-Rust-brightgreen)
-[![Python Answer](https://img.shields.io/badge/-Python-blue?logo=python&link=https://img.shields.io/badge/%E2%9D%8C_Wrong_Try_Again!-red)](https://img.shields.io/badge/%E2%9D%8C_Wrong_Try_Again!-red)
-
-[![Toggle](https://img.shields.io/badge/Click_Me-%20%F0%9F%94%91%20%20-black?link=https://img.shields.io/badge/You%20Found%3A%20%22To%20be%20or%20not%20to%20be%22%20-%20%F0%9F%97%A3%EF%B8%8F%20-blue)](https://img.shields.io/badge/Original_State-%20%F0%9F%94%91%20%20-black)
+**Which line has the syntax error?**  
+```js
+1. function add(a, b) {
+2.   return a + b
+3. }
+4. console.log(add(2, "2")) // 🐛
+<details> <summary>Reveal Answer</summary>
+diff
+Copy
+- Line 4: Extra closing parenthesis
++ console.log(add(2, "2"));
+</details> ```
