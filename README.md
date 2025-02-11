@@ -28,3 +28,13 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikos-chatzatoglou&layout=compact&theme=radical)
+
+### 🕹️ **Quick Game: Guess What Nikos is Learning!** (Click a badge!)  
+
+**"I'm currently diving deep into a backend framework. Which one is it?"**  
+
+[![Express Guess](https://img.shields.io/badge/Guess-Express.js-black?style=for-the-badge&logo=express&logoColor=white&link=https://img.shields.io/badge/CORRECT%21-Express.js-black?style=for-the-badge&logo=express&logoColor=green)](https://img.shields.io/badge/CORRECT%21-Express.js-black?style=for-the-badge&logo=express&logoColor=green)  
+[![Django Guess](https://img.shields.io/badge/Guess-Django-green?style=for-the-badge&logo=django&link=https://img.shields.io/badge/Oops%21-Try_Again%21-red)](https://img.shields.io/badge/Oops%21-Try_Again%21-red)  
+[![Flask Guess](https://img.shields.io/badge/Guess-Flask-grey?style=for-the-badge&logo=flask&link=https://img.shields.io/badge/Nice_Try%21-Look_Elsewhere%21-orange)](https://img.shields.io/badge/Nice_Try%21-Look_Elsewhere%21-orange)  
+
+**Answer revealed when you click!** (Works best on GitHub desktop)
