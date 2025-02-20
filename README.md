@@ -23,7 +23,6 @@
 ### 📫 **Let’s chat!**  
 - **Collab?** I'm all ears for... (you name it) → [Drop me an email](mailto:nikos.chatzatoglou@example.com) 📬  
 - **LinkedIn:** Let's talk out about work → [Connect here](https://www.linkedin.com/in/nikos-chatzatoglou-399360173) 💼  
-- **Fun fact:** I trade hiking trails for code trails 🏞️  
 
 ---
 
