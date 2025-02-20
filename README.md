@@ -5,7 +5,7 @@
 ### 🔭 **What I’m up to**  
 - By day: Front-end developer building stuff with **React/Next.js** ⚛️  
 - By night: Start new projects and never finish them  
-- Always: Tinkering with **AI**, hacking on **open-source**, or breaking things in **Solidity/Go** 🤖  
+- Always: Tinkering with **AI**, hacking on **open-source**, or breaking things in my code 🤖  
 
 ### 🛠️ **Toolbox**  
 **Code & Frameworks:**  
