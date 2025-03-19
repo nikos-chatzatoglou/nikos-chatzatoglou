@@ -1,29 +1,37 @@
 # Hey, I'm Nikos! 👋  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nikos-chatzatoglou&color=blueviolet)  
 
-### 🔭 **What I’m up to**  
-- By day: Front-end developer building stuff with **React/Next.js** ⚛️  
-- By night: Start new projects and never finish them  
-- Always: Tinkering with **AI**, hacking on **open-source**, or breaking things in my code 🤖  
+### 🔭 **What I'm up to**  
+- Focusing on Backend architecture 📚
+
+### 💡  **Did You know?**  
+- N+1 Query Problem: A common issue in ORMs where multiple queries are run instead of a single optimized one, leading to performance issues.
 
 ### 🛠️ **Toolbox**  
-**Code & Frameworks:**  
+**Frontend:**  
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Backend:**  
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Also Working With:**  
 ![](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-**Learning right now:**  
-![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 
-### 📫 **Let’s chat!**  
-- **Collab?** I'm all ears for... (you name it) → [Drop me an email](mailto:nikos.chatzatoglou@example.com) 📬  
-- **LinkedIn:** Let's talk out about work → [Connect here](https://www.linkedin.com/in/nikos-chatzatoglou-399360173) 💼  
+**Currently mastering:**  
+![](https://img.shields.io/badge/System_Design-FFA116?style=flat&logo=diagramsdotnet&logoColor=white)
+
+### 📫 **Let's chat!**  
+- **Collab?**  → [Drop me an email](mailto:nikoschatzatoglou.dev@gmail.com) 📬  
+- **LinkedIn:** → [Connect here](https://www.linkedin.com/in/nikos-chatzatoglou-399360173) 💼  
 
 ---
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikos-chatzatoglou&layout=compact&theme=radical)
