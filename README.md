@@ -4,9 +4,6 @@
 ### 🔭 **What I'm up to**  
 - Focusing on Backend architecture 📚
 
-### 💡  **Did You know?**  
-- N+1 Query Problem: A common issue in ORMs where multiple queries are run instead of a single optimized one, leading to performance issues.
-
 ### 🛠️ **Toolbox**  
 **Frontend:**  
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
