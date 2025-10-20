@@ -1,4 +1,4 @@
-# Hey, I'm Nikos! 👋  
+# Hey, I'm Nick! 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=nikos-chatzatoglou&color=blueviolet)  
 
 ### 🔭 **What I'm up to**  
